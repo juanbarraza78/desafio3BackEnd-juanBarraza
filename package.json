@@ -1,0 +1,15 @@
+{
+  "name": "3er-desafio-juan-barraza",
+  "version": "1.0.0",
+  "description": "desafio numero 3 , primera entrega",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon ./src/app.js"
+  },
+  "author": "Juan Ignacio Barraza",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

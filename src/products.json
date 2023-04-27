@@ -1,0 +1,47 @@
+[
+    {
+      "title": "pepe",
+      "description": 20,
+      "thumbnail": "Sin imagen",
+      "code": "abc1aa23",
+      "stock": 25,
+      "id": 1
+    }
+    ,
+    {
+      "title": "pepe",
+      "description": 20,
+      "thumbnail": "Sin imagen",
+      "code": "abc1aa23",
+      "stock": 25,
+      "id": 2
+    }
+    ,
+    {
+      "title": "pepe",
+      "description": 20,
+      "thumbnail": "Sin imagen",
+      "code": "abc1aa23",
+      "stock": 25,
+      "id": 3
+    }
+    ,
+    {
+      "title": "pepe",
+      "description": 20,
+      "thumbnail": "Sin imagen",
+      "code": "abc1aa23",
+      "stock": 25,
+      "id": 4
+    }
+    ,
+    {
+      "title": "pepe",
+      "description": 20,
+      "thumbnail": "Sin imagen",
+      "code": "abc1aa23",
+      "stock": 25,
+      "id": 5
+    }
+  ]
+  
